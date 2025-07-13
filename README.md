@@ -7,7 +7,7 @@ Este projeto simula uma conta bancária simples utilizando conceitos de **Progra
 O projeto foi dividido em duas versões para mostrar minha evolução:
 
 ### 🆚 Versão 1 
-- Criação de classe `Conta`
+- Criação da classe `Conta`
 - Métodos para depósito, saque e exibição de dados
 - Primeiros testes com objetos e construtores
 
