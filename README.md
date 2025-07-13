@@ -12,6 +12,6 @@ O projeto foi dividido em duas versões para mostrar minha evolução:
 - Primeiros testes com objetos e construtores
 
 ### 🆚 Versão 2
--Evolução da versão 1
--Uso de **herança**, criando a subclasse `ContaPoupanca`
--Organização por pacotes(`v1` e `v2`)
+- Evolução da versão 1
+- Uso de **herança**, criando a subclasse `ContaPoupanca`
+- Organização por pacotes(`v1` e `v2`)
