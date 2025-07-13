@@ -1,0 +1,17 @@
+# Ignora arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignora arquivos compilados
+bin/
+*.class
+
+# Ignora arquivos do VS Code
+.vscode/
+
+# Ignora arquivos temporários do sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
