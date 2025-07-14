@@ -13,5 +13,5 @@ O projeto foi dividido em duas versões para mostrar minha evolução:
 
 ### 🆚 Versão 2
 - Evolução da versão 1
-- Uso de **herança**, criando a subclasse `ContaPoupanca`
+- Uso de **encapsulamento** + **herança**, criando a subclasse `ContaPoupanca`
 - Organização por pacotes(`v1` e `v2`)
