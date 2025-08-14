@@ -9,7 +9,7 @@ Simular operações básicas de uma conta bancária, como **depositar**, **sacar
 ```
 src\ 
   |---application\
-  |     |__________ContaMain.java
+  |     |__________BancoApp.java
   |
   |___entities\
         |__________Conta.java
